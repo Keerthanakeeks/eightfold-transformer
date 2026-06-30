@@ -1,0 +1,6 @@
+pandas
+pydantic
+python-dateutil
+typer
+pycountry
+pytest
