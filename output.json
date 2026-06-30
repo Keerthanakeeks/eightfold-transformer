@@ -1,0 +1,17 @@
+{
+    "full_name": "Vishnu",
+    "primary_email": "vishnu@gmail.com",
+    "skills": [
+        "Python",
+        "SQL",
+        "Java"
+    ],
+    "_confidence": {
+        "full_name": 1.0,
+        "emails": 1.0,
+        "phones": 1.0,
+        "headline": 0.95,
+        "years_experience": 0.8,
+        "skills": 0.85
+    }
+}

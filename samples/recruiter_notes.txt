@@ -1,0 +1,9 @@
+Vishnu has 2 years of experience.
+
+Strong in Python, SQL and Java.
+
+Lives in Hyderabad, India.
+
+Currently working at Infosys.
+
+Interested in Data Engineering and AI.
